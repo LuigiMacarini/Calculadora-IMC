@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjetoAulaMobile</string>
+    <string name="textHeader">Avançar</string>
+    <string name="resetBtn">Resetar Cores</string>
+    <string name="btnResetIMC">Limpar</string>
+    <string name="btnIMC">Calcular</string>
+    <string name="headerTop">IMC</string>
+    <string name="header">Índice de massa corporal (IMC)</string>
+    <string name="headerSubTitle">Uma medida de gordura corporal em adultos</string>
+</resources>
